@@ -1,0 +1,48 @@
+# Python is an interpreted, high-level, general-purpose programming language, created by Guido van Rossum 
+# and first released in 1991.
+
+Python is processed at runtime by the interpreter. You do not need to compile your program before executing it. This is similar 
+to PERL and PHP.
+How Interpreter works:  Source code ---->>>> Interpreter ---->>>> Output
+
+Interactive -- You can actually sit at a Python prompt and interact with the 
+interpreter directly to write your programs.
+▪ Allows you to type commands one-at-a-time and see results
+▪ A great way to explore Python’s syntax
+
+Object-Oriented -- Python supports Object- Oriented style or technique 
+of programming that encapsulates code within objects. (We will NOT cover 
+this in this course).
+Beginner's Language -- Python is a great language for the beginner-level 
+programmers and supports the development of a wide range of applications 
+from simple text processing, numerical computing, web browsers to games.
+
+Why Python?
+Easy-to-learn: Python has few keywords, simple structure, and a clearly defined syntax. This allows 
+the student to pick up the language quickly. 
+Easy-to-read: Python code is more clearly defined and visible to the eyes. 
+Easy-to-maintain: Python's source code is fairly easy-to-maintain. 
+A broad standard library: Python's bulk of the library is very portable and cross-platform compatible 
+on UNIX, Windows, and Macintosh. 
+Interactive mode: Python has support for an interactive mode which allows interactive testing and 
+debugging of snippets of code. 
+Portable: Python can run on a wide variety of hardware platforms and has the same interface on all 
+platforms. 
+Extendable: You can add low-level modules to the Python interpreter. These modules enable 
+programmers to add to or customize their tools to be more efficient. 
+Databases: Python provides interfaces to all major commercial databases. 
+GUI Programming: Python supports GUI applications that can be created and ported to many system 
+calls, libraries and windows systems.
+Scalable: Python provides a better structure and support for large programs than shell scripting.
+
+
+Jupyter Notebook through Anaconda[
+Why Jupyter Notebook?
+▪ Run in your browser.
+▪ Evaluate code blocks and show the output right in the same document.
+▪ Everything lives in memory – work with results from other code blocks.
+▪ Integrates Markdown + code for real notebook-style documents.
+▪ Easy to share online.
+▪ Large community support and many extensions
+
+
